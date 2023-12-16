@@ -12,8 +12,8 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           # Credentials
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          WAKATIME_API_KEY: ${{ GH_TOKEN.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ GH_TOKEN.GH_TOKEN }}
 
           # Flags
           COMMIT_MESSAGE: "Update README statistics"
