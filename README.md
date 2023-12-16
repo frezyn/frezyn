@@ -1,13 +1,5 @@
 # Hey there! 👋
 
-I am a proficient Python programmer with knowledge in several other languages.
-
-```py
-# this will crash your pc.
-# you were warned.
-from itertools import count
-list(count(0))
-```
 
 ## Statistics
 <!--START_SECTION:waka-->
