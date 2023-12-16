@@ -31,10 +31,12 @@ jobs:
           SHOW_MASKED_TIME: false # optional
           STOP_AT_OTHER: true # optional
           IGNORED_LANGUAGES: YAML JSON TOML # optional
-          ### commit
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
-          TARGET_BRANCH: master # optional
-          TARGET_PATH: README.md # optional
-          COMMITTER_NAME: GitHubActionBot # optional
-          COMMITTER_EMAIL: action-bot@github.com # optional
+          # Flags
+          COMMIT_MESSAGE: "Update README statistics"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_PROJECTS: "False"
+          SHOW_TIMEZONE: "False"
+          SHOW_SHORT_INFO: "False"
+          SHOW_LOC_CHART: "False"
+
        
