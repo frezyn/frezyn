@@ -1,4 +1,4 @@
-# Hey there! 👋
+# Hey i'm Frezyn ❄️
 
 
 ## Statistics
