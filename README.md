@@ -3,7 +3,7 @@
 
 ## Statistics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-236%20hrs%2039%20mins-blue)
+[![wakatime](https://wakatime.com/badge/user/018c7087-1b72-458d-97fc-57067f67c343.svg)](https://wakatime.com/@018c7087-1b72-458d-97fc-57067f67c343)
 
 **I'm a Night 🦉** 
 
