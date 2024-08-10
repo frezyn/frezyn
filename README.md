@@ -1,3 +1,6 @@
+![Banner](https://github.com/frezyn/frezyn/blob/main/teste.png)
+
+
 # Hey i'm Frezyn ❄️
 
 
