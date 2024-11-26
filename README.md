@@ -1,4 +1,4 @@
-![Banner](https://github.com/frezyn/frezyn/blob/main/teste.png)
+![Banner]([https://github.com/frezyn/frezyn/blob/main/teste.png](https://github.com/frezyn/frezyn/blob/main/assets/Banner%20Alya.png))
 
 
 # Hey i'm Frezyn ❄️
