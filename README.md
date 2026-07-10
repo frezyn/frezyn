@@ -1,7 +1,5 @@
-![Banner](https://github.com/frezyn/frezyn/blob/main/assets/Banner%20Alya(2).png)
 
-
-# Hey i'm Frezyn ❄️
+# Hey i'm João Vitor (Frezyn ❄️)
 
 
 ## Statistics
